@@ -5,7 +5,7 @@ Hi there, I'm Christina!
 
 * 💻 I’m a full-stack software engineer currently working on Hearth. 
 * 🙇‍♀️ Brainstorm with me about tech and new projects over a cup of coffee.
-* 🪴 In my leisure time, I enjoy playing golf, baking, hiking, taking care of my plants, and crocheting.
+* 🌱 In my leisure time, I enjoy playing golf, baking, hiking, taking care of my plants, and crocheting.
 * 💌 How to reach me: phung.christina16@gmail.com | [LinkedIn](http://linkedin.com/in/christinaphung)
 
 
